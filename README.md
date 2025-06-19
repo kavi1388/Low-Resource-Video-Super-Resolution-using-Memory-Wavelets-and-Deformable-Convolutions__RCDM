@@ -7,6 +7,9 @@
 > 📢 **Accepted at WICV 2025**  
 > This paper has been accepted at the **Workshop on Computer Vision (WICV)** and will be published in the **CVPR 2025 proceedings**.
 
+![image](https://github.com/user-attachments/assets/4185292a-407a-4d0d-b283-2b8416657449)
+
+
 ## Overview
 This repository implements a 3D denoising network that incorporates wavelet transforms, deformable convolutions, and perceptual loss functions for video super-resolution tasks.
 
