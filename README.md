@@ -22,12 +22,11 @@ python train.py
 
 ## 📚 Citation
 ```bibtex
-@misc{viswanathan2025lowresourcevideosuperresolutionusing,
-      title={Low-Resource Video Super-Resolution using Memory, Wavelets, and Deformable Convolutions}, 
-      author={Kavitha Viswanathan and Shashwat Pathak and Piyush Bharambe and Harsh Choudhary and Amit Sethi},
-      year={2025},
-      eprint={2502.01816},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.01816}, 
+@InProceedings{Viswanathan_2025_CVPR,
+    author    = {Viswanathan, Kavitha and Sethi, Amit and Pathak, Shashwat and Bharambe, Piyush and Choudhary, Harsh},
+    title     = {Low-Resource Video Super-Resolution using Memory, Wavelets, and Deformable Convolutions},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {3444-3453}
 }
