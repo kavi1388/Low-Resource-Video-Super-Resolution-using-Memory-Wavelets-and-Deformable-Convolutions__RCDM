@@ -11,7 +11,7 @@
 
 
 ## Overview
-This repository implements a 3D super-resolution network that incorporates wavelet transforms, deformable convolutions, and perceptual loss functions for video super-resolution tasks.
+This repository implements a 3D super-resolution network that incorporates wavelet transforms, deformable convolutions, and perceptual loss functions for video super-resolution tasks. Without the use of a heavy transformer, we are able to achieve decent super-resolution performance 
 
 ## Training
 Run the training script with:
