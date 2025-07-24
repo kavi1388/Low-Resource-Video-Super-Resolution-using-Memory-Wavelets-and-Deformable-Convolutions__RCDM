@@ -11,7 +11,7 @@
 
 
 ## Overview
-This repository implements a 3D denoising network that incorporates wavelet transforms, deformable convolutions, and perceptual loss functions for video super-resolution tasks.
+This repository implements a 3D super-resolution network that incorporates wavelet transforms, deformable convolutions, and perceptual loss functions for video super-resolution tasks.
 
 ## Training
 Run the training script with:
